@@ -12,7 +12,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-black)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Deployment](https://img.shields.io/badge/Deployment-Offline%20AI-success)
-![Project](https://img.shields.io/badge/Final%20Year-Project-orange)
 ## AI-Powered Mobility Aid for the Visually Impaired
 
 SmartAssist Vision is a wearable assistive technology designed to enhance independent mobility for visually impaired individuals through real-time object detection, obstacle awareness, and voice-guided navigation.
