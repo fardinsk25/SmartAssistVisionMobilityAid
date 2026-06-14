@@ -1,5 +1,18 @@
 # SmartAssist Vision: AI-Powered Mobility Aid
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4-red?logo=raspberrypi)
+![MobileNetSSD](https://img.shields.io/badge/MobileNet--SSD-Object%20Detection-orange)
+![IoT](https://img.shields.io/badge/IoT-Smart%20Systems-blueviolet)
+![Edge AI](https://img.shields.io/badge/Edge-AI-success)
+![Accessibility](https://img.shields.io/badge/Accessibility-Assistive%20Technology-brightgreen)
+![Computer Vision](https://img.shields.io/badge/Computer-Vision-yellowgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-black)
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Deployment](https://img.shields.io/badge/Deployment-Offline%20AI-success)
+![Project](https://img.shields.io/badge/Final%20Year-Project-orange)
 ## AI-Powered Mobility Aid for the Visually Impaired
 
 SmartAssist Vision is a wearable assistive technology designed to enhance independent mobility for visually impaired individuals through real-time object detection, obstacle awareness, and voice-guided navigation.
